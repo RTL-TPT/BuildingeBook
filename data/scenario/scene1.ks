@@ -19,7 +19,7 @@
 [bg  time="1000"  method="crossfade"  storage="3.jpg"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="3.ogg"  ]
 [clickable  storage="scene1.ks"  x="497"  y="1731"  width="489"  height="471"  target="*2"  _clickable_img=""  ]
-[clickable  storage="scene1.ks"  x="3015"  y="1967"  width="489"  height="471"  target="*4"  _clickable_img=""  ]
+[clickable  storage="scene1.ks"  x="3015"  y="1731"  width="489"  height="471"  target="*4"  _clickable_img=""  ]
 [s  ]
 *4
 
